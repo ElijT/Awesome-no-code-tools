@@ -20,6 +20,7 @@ Originally published as
 * [IFTTT](https://ifttt.com/) - Do more with the services you love
 * [ActionDesk](https://www.actiondesk.io/) - Build powerful automations with your spreadsheet skills
 * [Microsoft Flow](https://flow.microsoft.com/fr-fr/) - Automate tasks by integrating your favorite apps
+* [Wayscript](https://wayscript.com) - A rapid scripting platform with drag-n-drop interface for Python and Javascript
 * [Tray](https://tray.io/solutions/sales) - Advanced integration platform for connecting up the tools you use every day
 * [Automate Io](https://automate.io/) - Put your business on autopilot. Connect 100+ business apps.
 * [Blockspring](https://www.blockspring.com/) - Supercharge your list building, reporting, and landing pages.
