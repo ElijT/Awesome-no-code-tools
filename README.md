@@ -141,6 +141,7 @@ Originally published as
 * [Glide](glideapps.com) - Create mobile apps from Google Sheets
 * [Lightwell](https://lightwell.pro/) - A simple tool for creating native iOS apps on Mac.
 * [Adalo](https://www.adalo.com) - Create apps as easy as making a slide deck
+* [App Inventor](https://appinventor.mit.edu/) - Create powerful Android apps without code using blocs coding
 * [Thunkable](https://thunkable.com) - Create beautiful and powerful mobile apps without code
 
 ### Mobile Apps, Video Games
