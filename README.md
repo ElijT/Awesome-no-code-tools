@@ -74,6 +74,7 @@ Originally published as
 
 ### Database
 * [Airtable](airtable.com) - Realtime spreadsheet database hybrid
+* [NocoDB](https://github.com/nocodb/nocodb) - Free & Open Source Airtable alternative - turns any SQL database into smart spreadsheet
 * [Trevor](https://trevor.io/) - Query your live data, without code
 
 ### Design
