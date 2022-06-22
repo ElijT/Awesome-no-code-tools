@@ -195,3 +195,4 @@ I know that some of you are thinking "What is awesome without code? on Github???
 
 ### Other
 * [Notion Charts](https://notioncharts.io/) - <...>
+* [Zerocoder](https://zerocoder.ru/) - <...>
