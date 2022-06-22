@@ -1,18 +1,9 @@
-# Awesome-no-code-tools
+# Awesome-nocode
 This awesome list links relevant tools for required to make apps/sites/chatbot and any digital tools without code!
 
 I know that some of you are thinking "What is awesome without code? on Github???" But you never know when having such a tool might become handy.
 
-This list is based on the incredible work done by Louis Veyret & Clément Barberousse and published as a google sheet. I am saving it here as a safekeeping and to maintain it.
-Originally published as
->Outils pour créer des sites web, applications mobiles, chatbot sans coder.
->Par Louis Veyret & Clément Barberousse
->Source : https://docs.google.com/spreadsheets/d/1QRhocTMg1cZAZyWz5vznqg6KdZrzU-b557Il8p0Q7HM/edit#gid=1754454108
-
 # Awesome list
-### Analytics
-* [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and friendly analytics
-* [Google Analytics](https://analytics.google.com) - Free website analytics
 
 ### Automation
 * [Zapier](https://zapier.com/) - Connect and automate 500+ web apps
@@ -26,16 +17,23 @@ Originally published as
 * [Blockspring](https://www.blockspring.com/) - Supercharge your list building, reporting, and landing pages.
 * [Oplim](https://oplim.com/) - Custom tasks on your website with zero code
 * [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore
-
-### Automation, Scrapers
 * [Phantombuster](https://phantombuster.com/) - Marketplace of simple to use no-code APIs
+* [N8N](https://n8n.io/) - <...>
+* [Albato](https://albato.ru/) - <...>
 
-### Business Apps
-* [Betty Blocks](https://www.bettyblocks.com) - No-code enterprise application development
-* [AppSheet](https://www.appsheet.com) - Intelligent no-code app development platform
-* [Quick Base](https://www.quickbase.com/) - Best way to manage data and automate processes, so you can accomplish more
-* [Zoho Creator](https://www.zoho.com/fr/creator/) - Custom apps to run your business.
-* [Calcapp](https://www.calcapp.net/) - Build apps with your spreadsheet skills
+### Apps Builder
+* [Pory](https://pory.io/) - <...>
+* [Autocode](https://autocode.com/) - <...>
+* [DrapCode](https://drapcode.com/) - <...>
+* [Dropsource](https://www.dropsource.com/) - Build and publish native mobile app without coding
+* [Glide](glideapps.com) - Create mobile apps from Google Sheets
+* [Lightwell](https://lightwell.pro/) - A simple tool for creating native iOS apps on Mac.
+* [Adalo](https://www.adalo.com) - Create apps as easy as making a slide deck
+* [App Inventor](https://appinventor.mit.edu/) - Create powerful Android apps without code using blocs coding
+* [Thunkable](https://thunkable.com) - Create beautiful and powerful mobile apps without code
+* [Bubble](http://bubble.is) - Build a fully functional web app without any code.
+* [Corvid](https://www.wix.com/corvid) - Build advanced web applications, hassle-free
+* [Boundless](https://www.boundlesslabs.com/) - Create dynamic, multisided web apps without coding
 
 ### Chatbots
 * [Manychat](https://manychat.com/) - Create a Messenger bot in minutes
@@ -47,26 +45,28 @@ Originally published as
 * [Flow XO](https://flowxo.com/) - Create a chatbot with zero coding skills required
 * [Smooch](https://smooch.io/) - Instantly deploy yout bots wherever users are
 * [Rulai](https://rul.ai/) - AI Chatbot to deliver Scalable Self Service
+* [Botsociety](https://botsociety.io/) - <...>
+
+### Business Apps
+* [Betty Blocks](https://www.bettyblocks.com) - No-code enterprise application development
+* [AppSheet](https://www.appsheet.com) - Intelligent no-code app development platform
+* [Quick Base](https://www.quickbase.com/) - Best way to manage data and automate processes, so you can accomplish more
+* [Zoho Creator](https://www.zoho.com/fr/creator/) - Custom apps to run your business.
+* [Calcapp](https://www.calcapp.net/) - Build apps with your spreadsheet skills
 
 ### Collaboration
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
 * [Trello](https://trello.com/louisveyret1/boards) - All-in-one workspace and collaboration for businesses
-
-### Collaboration, Internal
 * [Quip](https://quip.com/) - One place for all your team's work
 
 ### CRM
 * [Salesflare](https://salesflare.com/) - Simple & powerful CRM for small businesses
 * [Pipedrive](https://www.pipedrive.com/fr) - CRM Gestion de leads en pipeline
-
-### CRM, Marketing
 * [Hubspot](https://www.hubspot.com/) - A full platform of marketing, sales, customer service and CRM software 
 
 ### Customer Support
 * [Drift](https://www.drift.com/) - Customer support chatbot
 * [Crisp](https://crisp.chat/fr/) - Customer support directly in your website
-
-### Customer Support, Marketing, CRM
 * [Intercom](https://www.intercom.com/) - All-in-one customer support
 
 ### Data, Marketing
@@ -80,9 +80,23 @@ Originally published as
 ### Design
 * [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration
 * [unDraw](https://undraw.co/) - Free, open-source illustrations for everyone
+* [BannerBear](https://www.bannerbear.com/) - <...>
 
-### Design, Websites
+### Websites
 * [Webflow](https://webflow.com) - All-in-one web design platform
+* [Sheet2site](https://www.sheet2site.com/) - Turn your Google Sheets into a website
+* [Universe](https://apps.apple.com/us/app/universe-website-builder/id1211437633) - Make an awesome website from your phone
+* [Table2Site](https://table2site.com) - Generate websites from your Airtable base
+* [Squarespace](https://fr.squarespace.com/) - All-in-one platform to build a beautiful online e-commerce
+* [Wix](https://fr.wix.com/) - Free website builder
+* [IM Creator](https://www.imcreator.com/) - Free website builder
+* [Weebly](https://www.weebly.com/?lang=fr) - Build a free website or online store
+* [Webnode](https://www.webnode.fr/) - Easy & Free website maker
+* [Jimdo](https://www.jimdo.com/fr/) - Your website builder
+* [Bookmark](https://www.bookmark.com/) - Create a Website with AI
+* [Strikingly](https://www.strikingly.com/) - Make a website in minutes
+* [Tilda](https://tilda.cc/) - Create beautiful websites without any code
+* [Circa](https://circa.so/) - <...>
 
 ### Ecommerce
 * [Shopify](https://fr.shopify.com/) - Build your ecommerce store
@@ -106,14 +120,11 @@ Originally published as
 * [Google Forms](https://www.google.com/intl/fr/forms/about/) - Free forms from Google that connect directly to Google Sheets
 * [Jotform](https://www.jotform.com/) - Online form builder & form creator
 * [Paperform](https://paperform.co/) - Beautiful forms that feel like yours
-
-### Internal
-* [Coda](https://coda.io/welcome) - Build docs as powerful as apps
-* [Nuclino](https://www.nuclino.com) - Knowledge base and collaboration
-* [Contractbook](https://contractbook.co/) - Efficient contract management
-
-### Internal, Web Apps
-* [Retool](https://retool.com/) - Build custom internal tools in minutes
+* [Tally](https://tally.so/) - <...>
+* [Notion Forms](https://notionforms.io/) - <...>
+* [Reform](https://www.reform.app/) - <...>
+* [Tripetto](https://tripetto.com/) - <...>
+* [Survey Sparrow](https://surveysparrow.com/) - <...>
 
 ### Landing Pages
 * [Landen](https://www.landen.co/) - Beautiful Landing Pages. Designed Instantly
@@ -123,9 +134,13 @@ Originally published as
 * [Unbounce](https://unbounce.com/) - Landing Pages - More Powerful Customization
 * [Leeflets](https://leeflets.com/) - Functional landing pages for all kind of things
 * [RIVYT](https://rivyt.com/) - Websites for Video Creators
-
-### Landing Pages, Websites
 * [Carrd](https://carrd.co) - Build simple, fully responsive one-page sites
+
+### Internal
+* [Coda](https://coda.io/welcome) - Build docs as powerful as apps
+* [Nuclino](https://www.nuclino.com) - Knowledge base and collaboration
+* [Contractbook](https://contractbook.co/) - Efficient contract management
+* [Retool](https://retool.com/) - Build custom internal tools in minutes
 
 ### Marketing
 * [Outgrow](https://outgrow.co/) - Boost your marketing with highly interactive content
@@ -137,14 +152,8 @@ Originally published as
 
 ### Membership, Websites
 * [Memberstack](https://www.memberstack.io/) - Memberships & gated content for websites
+* [Memberspace](https://www.memberspace.com/) - Turn your audience into paying members
 
-### Mobile Apps
-* [Dropsource](https://www.dropsource.com/) - Build and publish native mobile app without coding
-* [Glide](glideapps.com) - Create mobile apps from Google Sheets
-* [Lightwell](https://lightwell.pro/) - A simple tool for creating native iOS apps on Mac.
-* [Adalo](https://www.adalo.com) - Create apps as easy as making a slide deck
-* [App Inventor](https://appinventor.mit.edu/) - Create powerful Android apps without code using blocs coding
-* [Thunkable](https://thunkable.com) - Create beautiful and powerful mobile apps without code
 
 ### Mobile Apps, Video Games
 * [Buildbox](https://www.buildbox.com/) - Make amazing mobile games without coding
@@ -154,11 +163,7 @@ Originally published as
 * [Stripe](https://stripe.com/fr-us) - Payment integration and management
 * [Paypal](http://paypal.com) - Send Money, Online or Set up a Merchant Store
 * [Buy me a coffee](https://www.buymeacoffee.com/) - Easy way to support a projet
-
-### Payment, Ecommerce
 * [Gumroad](https://gumroad.com/?locale=fr) - Sell anything directly to anyone
-
-### Payment, Membership
 * [Patreon](https://www.patreon.com/) - Easy way to contribute to a project
 
 ### Podcast
@@ -180,24 +185,8 @@ Originally published as
 ### VR
 * [Instavr](https://www.instavr.co/) - Make your VR apps in minutes
 
-### Web Apps
-* [Bubble](http://bubble.is) - Build a fully functional web app without any code.
-* [Corvid](https://www.wix.com/corvid) - Build advanced web applications, hassle-free
-* [Boundless](https://www.boundlesslabs.com/) - Create dynamic, multisided web apps without coding
 
-### Websites
-* [Sheet2site](https://www.sheet2site.com/) - Turn your Google Sheets into a website
-* [Universe](https://apps.apple.com/us/app/universe-website-builder/id1211437633) - Make an awesome website from your phone
-* [Table2Site](https://table2site.com) - Generate websites from your Airtable base
-* [Squarespace](https://fr.squarespace.com/) - All-in-one platform to build a beautiful online e-commerce
-* [Wix](https://fr.wix.com/) - Free website builder
-* [IM Creator](https://www.imcreator.com/) - Free website builder
-* [Weebly](https://www.weebly.com/?lang=fr) - Build a free website or online store
-* [Webnode](https://www.webnode.fr/) - Easy & Free website maker
-* [Jimdo](https://www.jimdo.com/fr/) - Your website builder
-* [Bookmark](https://www.bookmark.com/) - Create a Website with AI
-* [Strikingly](https://www.strikingly.com/) - Make a website in minutes
-* [Tilda](https://tilda.cc/) - Create beautiful websites without any code
+### Analytics
+* [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and friendly analytics
+* [Google Analytics](https://analytics.google.com) - Free website analytics
 
-### Websites, Membership
-* [Memberspace](https://www.memberspace.com/) - Turn your audience into paying members.
