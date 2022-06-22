@@ -1,4 +1,4 @@
-# Awesome-nocode
+# Awesome-nocode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This awesome list links relevant tools for required to make apps/sites/chatbot and any digital tools without code!
 
 I know that some of you are thinking "What is awesome without code? on Github???" But you never know when having such a tool might become handy.
