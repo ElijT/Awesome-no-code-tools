@@ -58,6 +58,7 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
 * [Trello](https://trello.com/louisveyret1/boards) - All-in-one workspace and collaboration for businesses
 * [Quip](https://quip.com/) - One place for all your team's work
+* 
 
 ### CRM
 * [Salesflare](https://salesflare.com/) - Simple & powerful CRM for small businesses
@@ -190,3 +191,6 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and friendly analytics
 * [Google Analytics](https://analytics.google.com) - Free website analytics
 
+
+### Other
+* [Notion Charts](https://notioncharts.io/) - <...>
