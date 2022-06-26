@@ -249,3 +249,6 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Zerocoder](https://zerocoder.ru/) - <...>
 * [Memberstack](https://www.memberstack.io/) - Memberships & gated content for websites
 * [Memberspace](https://www.memberspace.com/) - Turn your audience into paying members
+* [WaitlistAPI]() - <...>
+* [Testimonial.to](https://testimonial.to)
+* [Magic]() - <...>
