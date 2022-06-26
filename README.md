@@ -13,13 +13,17 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Microsoft Flow](https://flow.microsoft.com/fr-fr/) - Automate tasks by integrating your favorite apps
 * [Wayscript](https://wayscript.com) - A rapid scripting platform with drag-n-drop interface for Python and Javascript
 * [Tray](https://tray.io/solutions/sales) - Advanced integration platform for connecting up the tools you use every day
-* [Automate Io](https://automate.io/) - Put your business on autopilot. Connect 100+ business apps.
+* [Automate.io](https://automate.io/) - Put your business on autopilot. Connect 100+ business apps.
 * [Blockspring](https://www.blockspring.com/) - Supercharge your list building, reporting, and landing pages.
 * [Oplim](https://oplim.com/) - Custom tasks on your website with zero code
 * [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore
 * [Phantombuster](https://phantombuster.com/) - Marketplace of simple to use no-code APIs
-* [N8N](https://n8n.io/) - <...>
+* [n8n.io](https://n8n.io/) - <...>
 * [Albato](https://albato.ru/) - <...>
+* [Parabola]() - <...>
+* [Clay]() - <...>
+* [Voiceflow]() - <...>
+* [Paragon]() - <...>
 
 ### Apps Builder
 * [Pory](https://pory.io/) - <...>
