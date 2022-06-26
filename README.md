@@ -231,11 +231,15 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Blippar]() - <...>
 * [Scapic]() - <...>
 
+### ML
+* [Intersect Labs]() - <...>
+* [ObviouslyAI]() - <...>
+* [Gyana]() - <...>
+* [Lobe]() - <...>
 
 ### Analytics
 * [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and friendly analytics
 * [Google Analytics](https://analytics.google.com) - Free website analytics
-
 
 ### Other
 * [Notion Charts](https://notioncharts.io/) - <...>
