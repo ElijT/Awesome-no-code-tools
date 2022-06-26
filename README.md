@@ -211,8 +211,10 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Vuix](https://vuix.io/) - Design voice apps in minutes
 * [ApitoBot](https://apitobot.io/) - Create an Alexa Skill or Google Action in minutes
 
-### VR
+### VR / AR / 3D
 * [Instavr](https://www.instavr.co/) - Make your VR apps in minutes
+* [Blippar]() - <...>
+* [Scapic]() - <...>
 
 
 ### Analytics
