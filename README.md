@@ -77,6 +77,16 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Airtable](airtable.com) - Realtime spreadsheet database hybrid
 * [NocoDB](https://github.com/nocodb/nocodb) - Free & Open Source Airtable alternative - turns any SQL database into smart spreadsheet
 * [Trevor](https://trevor.io/) - Query your live data, without code
+* [Google Sheets]() - <...>
+* [Sheety API]() - <...>
+* [Jotform Tables]() - <...>
+* [Internal]() - <...>
+* [Retool]() - <...>
+* [Taskade]() - <...>
+* [Rows]() - <...>
+* [Airtable]() - <...>
+* [Coda]() - <...>
+* [Notion]() - <...>
 
 ### Design
 * [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration
