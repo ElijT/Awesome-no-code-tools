@@ -58,7 +58,6 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
 * [Trello](https://trello.com/louisveyret1/boards) - All-in-one workspace and collaboration for businesses
 * [Quip](https://quip.com/) - One place for all your team's work
-* 
 
 ### CRM
 * [Salesflare](https://salesflare.com/) - Simple & powerful CRM for small businesses
@@ -92,6 +91,12 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration
 * [unDraw](https://undraw.co/) - Free, open-source illustrations for everyone
 * [BannerBear](https://www.bannerbear.com/) - <...>
+* [Datawrapper]() - <...>
+* [Rive]() - <...>
+* [Graphy]() - <...>
+* [InVision]() - <...>
+* [Bravo Studio]() - <...>
+* [Scapic]() - <...>
 
 ### Websites
 * [Webflow](https://webflow.com) - All-in-one web design platform
