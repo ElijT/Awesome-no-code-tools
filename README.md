@@ -105,6 +105,7 @@ I know that some of you are thinking "What is awesome without code? on Github???
 * [InVision](https://www.invisionapp.com/) - <...>
 * [Bravo Studio](https://www.bravostudio.app/) - <...>
 * [Scapic](https://www.scapic.com) - <...>
+* [Framer](https://www.framer.com/) - <...>
 
 ### Websites
 * [Webflow](https://webflow.com) - All-in-one web design platform
