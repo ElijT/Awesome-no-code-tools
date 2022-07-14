@@ -155,6 +155,7 @@ Originally published as
 * [Stripe](https://stripe.com/fr-us) - Payment integration and management
 * [Paypal](http://paypal.com) - Send Money, Online or Set up a Merchant Store
 * [Buy me a coffee](https://www.buymeacoffee.com/) - Easy way to support a projet
+* [Payge.io](https://payge.io/) - Easiest way to create payment pages and links (accept credit cards, paypal, crypto, ...)
 
 ### Payment, Ecommerce
 * [Gumroad](https://gumroad.com/?locale=fr) - Sell anything directly to anyone
