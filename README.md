@@ -266,6 +266,7 @@ I know that some of you are thinking "What is awesome without code? on Github???
 ### Analytics
 * [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and friendly analytics
 * [Google Analytics](https://analytics.google.com) - Free website analytics
+* [Draxlr](https://www.draxlr.com/) - Tool to get answers from your DB without SQL
 
 ### Other
 * [Notion Charts](https://notioncharts.io/) - <...>
