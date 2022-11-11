@@ -115,6 +115,8 @@ Originally published as
 
 ### Internal, Web Apps
 * [Retool](https://retool.com/) - Build custom internal tools in minutes
+* [Linx](https://retool.com/) - Build, debug and host backends like APIs, automations and integrations
+
 
 ### Landing Pages
 * [Landen](https://www.landen.co/) - Beautiful Landing Pages. Designed Instantly
