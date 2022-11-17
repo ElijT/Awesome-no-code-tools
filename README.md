@@ -27,6 +27,8 @@ Originally published as
 * [Oplim](https://oplim.com/) - Custom tasks on your website with zero code
 * [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore
 * [Outfunnel](https://outfunnel.com/) - Keep customer data in sync across sales and marketing tools
+* [Linx](https://linx.software) - General-purpose platform for building and hosting APIs and automation
+
 
 ### Automation, Scrapers
 * [Phantombuster](https://phantombuster.com/) - Marketplace of simple to use no-code APIs
