@@ -37,6 +37,8 @@ Originally published as
 * [Quick Base](https://www.quickbase.com/) - Best way to manage data and automate processes, so you can accomplish more
 * [Zoho Creator](https://www.zoho.com/fr/creator/) - Custom apps to run your business.
 * [Calcapp](https://www.calcapp.net/) - Build apps with your spreadsheet skills
+* [Naologic](https://naologic.com/) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
+
 
 ### Chatbots
 * [Manychat](https://manychat.com/) - Create a Messenger bot in minutes
