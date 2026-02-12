@@ -52,6 +52,7 @@ Originally published as
 ### Collaboration
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
 * [Trello](https://trello.com/louisveyret1/boards) - All-in-one workspace and collaboration for businesses
+* [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, workflow automation, project management, and AI app builder
 
 ### Collaboration, Internal
 * [Quip](https://quip.com/) - One place for all your team's work
