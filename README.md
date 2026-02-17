@@ -48,6 +48,7 @@ Originally published as
 * [Flow XO](https://flowxo.com/) - Create a chatbot with zero coding skills required
 * [Smooch](https://smooch.io/) - Instantly deploy yout bots wherever users are
 * [Rulai](https://rul.ai/) - AI Chatbot to deliver Scalable Self Service
+* [Asklee](https://asklee.ai) - No-code AI assistant builder for WhatsApp with long-term memory and tool integrations
 
 ### Collaboration
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
