@@ -55,7 +55,7 @@ Originally published as
 
 ### Collaboration, Internal
 * [Quip](https://quip.com/) - One place for all your team's work
-* [Gatherly](https://gatherly.so) - E-signature and client intake platform for professional services firms
+* [Gatherly](https://gatherly.shop) - E-signature and client intake platform for professional services firms
 
 ### CRM
 * [Salesflare](https://salesflare.com/) - Simple & powerful CRM for small businesses
