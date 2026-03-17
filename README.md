@@ -132,6 +132,7 @@ Originally published as
 * [Outgrow](https://outgrow.co/) - Boost your marketing with highly interactive content
 * [Rewardful](https://www.getrewardful.com/) - Instant Affiliate & Referral Programs for Stripe
 * [Fortvision](https://fortvision.com/) - Create interactive experiences that lead to higher conversions
+* [SocialBu](https://socialbu.com/) - AI-powered social media management with scheduling, publishing, monitoring, and automation
 
 ### Marketplace
 * [Sharetribe](https://www.sharetribe.com) - Create your first marketplace without code
