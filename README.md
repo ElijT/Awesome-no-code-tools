@@ -3,10 +3,10 @@ This awesome list links relevant tools for required to make apps/sites/chatbot a
 
 I know that some of you are thinking "What is awesome without code? on Github???" But you never know when having such a tool might become handy.
 
-This list is based on the incredible work done by Louis Veyret & Clément Barberousse and published as a google sheet. I am saving it here as a safekeeping and to maintain it.
+This list is based on the incredible work done by Louis Veyret & ClÃ©ment Barberousse and published as a google sheet. I am saving it here as a safekeeping and to maintain it.
 Originally published as
->Outils pour créer des sites web, applications mobiles, chatbot sans coder.
->Par Louis Veyret & Clément Barberousse
+>Outils pour crÃ©er des sites web, applications mobiles, chatbot sans coder.
+>Par Louis Veyret & ClÃ©ment Barberousse
 >Source : https://docs.google.com/spreadsheets/d/1QRhocTMg1cZAZyWz5vznqg6KdZrzU-b557Il8p0Q7HM/edit#gid=1754454108
 
 # Awesome list
@@ -171,6 +171,7 @@ Originally published as
 * [Dataminer](https://data-miner.io/) - Easy to use web scraping
 
 ### Video
+- [Remove Audio](https://remove-audio.com) - Free browser-based tool to remove audio from any video. No code, no upload, no account. Batch up to 20 clips.
 * [Loom](https://www.loom.com) - Seamless screen, mic, and camera recording for Chrome
 
 ### Voice
