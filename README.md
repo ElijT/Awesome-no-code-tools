@@ -48,6 +48,7 @@ Originally published as
 * [Flow XO](https://flowxo.com/) - Create a chatbot with zero coding skills required
 * [Smooch](https://smooch.io/) - Instantly deploy yout bots wherever users are
 * [Rulai](https://rul.ai/) - AI Chatbot to deliver Scalable Self Service
+* [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ### Collaboration
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
