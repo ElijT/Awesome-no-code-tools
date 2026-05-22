@@ -188,7 +188,7 @@ Originally published as
 
 ### Websites
 * [Sheet2site](https://www.sheet2site.com/) - Turn your Google Sheets into a website
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/web-development/no-code-sites) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Universe](https://apps.apple.com/us/app/universe-website-builder/id1211437633) - Make an awesome website from your phone
 * [Table2Site](https://table2site.com) - Generate websites from your Airtable base
 * [Squarespace](https://fr.squarespace.com/) - All-in-one platform to build a beautiful online e-commerce
