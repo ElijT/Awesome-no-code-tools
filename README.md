@@ -81,6 +81,7 @@ Originally published as
 ### Design
 * [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration
 * [unDraw](https://undraw.co/) - Free, open-source illustrations for everyone
+* [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based design utilities: OG image generator, favicon generator, AI background remover (runs locally), color palette generator. No signup required, open source.
 
 ### Design, Websites
 * [Webflow](https://webflow.com) - All-in-one web design platform
