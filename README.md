@@ -39,6 +39,7 @@ Originally published as
 * [Calcapp](https://www.calcapp.net/) - Build apps with your spreadsheet skills
 
 ### Chatbots
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 * [Manychat](https://manychat.com/) - Create a Messenger bot in minutes
 * [It's Alive](https://itsalive.io/) - Create a Facebook bot in minutes
 * [Chatfuel](https://chatfuel.com) - Create chatbots for your audience
