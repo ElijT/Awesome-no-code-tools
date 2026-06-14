@@ -169,6 +169,7 @@ Originally published as
 * [Octoparse](https://www.octoparse.com/) - Easy web scraping for everyone
 * [Parsehub](https://www.parsehub.com/) - Free web scraping
 * [Dataminer](https://data-miner.io/) - Easy to use web scraping
+* [LeadFinder](https://getleadscraper.com/) - Scrape local business leads from Google Maps by niche and city, export to CSV
 
 ### Video
 * [Loom](https://www.loom.com) - Seamless screen, mic, and camera recording for Chrome
